@@ -1,0 +1,19 @@
+C:\Users\user\AppData\Local\Temporary Projects\SwanSalesman\bin\Debug\SwanSalesman.exe
+C:\Users\user\AppData\Local\Temporary Projects\SwanSalesman\bin\Debug\SwanSalesman.pdb
+C:\Users\user\AppData\Local\Temporary Projects\SwanSalesman\bin\Debug\SwanSalesman.xml
+C:\Users\user\AppData\Local\Temporary Projects\SwanSalesman\obj\x86\Debug\SwanSalesman.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\SwanSalesman\obj\x86\Debug\SwanSalesman.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\SwanSalesman\obj\x86\Debug\SwanSalesman.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\SwanSalesman\obj\x86\Debug\SwanSalesman.exe
+C:\Users\user\AppData\Local\Temporary Projects\SwanSalesman\obj\x86\Debug\SwanSalesman.xml
+C:\Users\user\AppData\Local\Temporary Projects\SwanSalesman\obj\x86\Debug\SwanSalesman.pdb
+D:\Development\Visual Basic 2010 Express\Source\Buy a Swan\VSPROJ\SwanSalesman\SwanSalesman\obj\x86\Debug\SwanSalesman.exe
+D:\Development\Visual Basic 2010 Express\Source\Buy a Swan\VSPROJ\SwanSalesman\SwanSalesman\obj\x86\Debug\SwanSalesman.xml
+D:\Development\Visual Basic 2010 Express\Source\Buy a Swan\VSPROJ\SwanSalesman\SwanSalesman\obj\x86\Debug\SwanSalesman.pdb
+D:\Development\Visual Basic 2010 Express\Source\Buy a Swan\VSPROJ\SwanSalesman\SwanSalesman\bin\Debug\SwanSalesman.exe
+D:\Development\Visual Basic 2010 Express\Source\Buy a Swan\VSPROJ\SwanSalesman\SwanSalesman\bin\Debug\SwanSalesman.pdb
+D:\Development\Visual Basic 2010 Express\Source\Buy a Swan\VSPROJ\SwanSalesman\SwanSalesman\bin\Debug\SwanSalesman.xml
+D:\Development\Visual Basic 2010 Express\Source\Buy a Swan\VSPROJ\SwanSalesman\SwanSalesman\obj\x86\Debug\SwanSalesman.Form1.resources
+D:\Development\Visual Basic 2010 Express\Source\Buy a Swan\VSPROJ\SwanSalesman\SwanSalesman\obj\x86\Debug\SwanSalesman.Resources.resources
+D:\Development\Visual Basic 2010 Express\Source\Buy a Swan\VSPROJ\SwanSalesman\SwanSalesman\obj\x86\Debug\SwanSalesman.vbproj.GenerateResource.Cache
+D:\Development\Visual Basic 2010 Express\Source\Buy a Swan\VSPROJ\SwanSalesman\SwanSalesman\obj\x86\Debug\SwanSalesman.Giveaway.resources
